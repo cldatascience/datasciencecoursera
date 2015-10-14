@@ -53,10 +53,10 @@ The subject who performed the activity for each window sample.
 -**tBodyAcc.std.X** (numerical, m/s^2)  
 (Averaged) Standard deviation of the estimated body acceleration, in X axis
 
--**tBodyAcc.std.Y** (numerical, m/s^2)
+-**tBodyAcc.std.Y** (numerical, m/s^2)  
 (Averaged) Standard deviation of the estimated body acceleration, in Y axis
 
--**tBodyAcc.std.Z** (numerical, m/s^2)
+-**tBodyAcc.std.Z** (numerical, m/s^2)  
 (Averaged) Standard deviation of the estimated body acceleration, in Z axis
 
 -**tGravityAcc.mean.X** (numerical, m/s^2)  
@@ -68,13 +68,13 @@ The subject who performed the activity for each window sample.
 -**tGravityAcc.mean.Z** (numerical, m/s^2)  
 (Averaged) Mean of the estimated gravity acceleration, in Z axis
 
--**tGravityAcc.std.X** (numerical, m/s^2)
+-**tGravityAcc.std.X** (numerical, m/s^2)  
 (Averaged) Standard deviation of the estimated gravity acceleration, in X axis
 
--**tGravityAcc.std.Y** (numerical, m/s^2)
+-**tGravityAcc.std.Y** (numerical, m/s^2)  
 (Averaged) Standard deviation of the estimated gravity acceleration, in Y axis
 
--**tGravityAcc.std.Z** (numerical, m/s^2)
+-**tGravityAcc.std.Z** (numerical, m/s^2)  
 (Averaged) Standard deviation of the estimated gravity acceleration, in Z axis
 
 -**tBodyAccJerk.mean.X** (numerical, m/s^2)  
@@ -95,7 +95,7 @@ The subject who performed the activity for each window sample.
 -**tBodyAccJerk.std.Z** (numerical, m/s^2)  
 (Averaged) Standard deviation of the Jerk signal for body acceleration, in Z axis
 
--**tBodyGyro.mean.X** (numerical, radians/s)    
+-**tBodyGyro.mean.X** (numerical, radians/s)     
 (Averaged) Mean of the estimated body angular velocity, in X axis
 
 -**tBodyGyro.mean.Y** (numerical, radians/s)    
@@ -167,74 +167,74 @@ The subject who performed the activity for each window sample.
 -**fBodyAcc.mean.Y** (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAcc.mean.Y
 
--**fBodyAcc.mean.Z** (unitless)
+-**fBodyAcc.mean.Z** (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAcc.mean.Z
 
--**fBodyAcc.std.X** (unitless)
+-**fBodyAcc.std.X** (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAcc.std.X
 
--**fBodyAcc.std.Y** (unitless)
+-**fBodyAcc.std.Y** (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAcc.std.Y
 
--**fBodyAcc.std.Z** (unitless)
+-**fBodyAcc.std.Z** (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAcc.std.Z
 
--**fBodyAccJerk.mean.X** (unitless)
+-**fBodyAccJerk.mean.X** (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyAccJerk.mean.Y**  (unitless)
+-**fBodyAccJerk.mean.Y**  (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyAccJerk.mean.Z**   (unitless)
+-**fBodyAccJerk.mean.Z**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyAccJerk.std.X**   (unitless)
+-**fBodyAccJerk.std.X**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyAccJerk.std.Y**   (unitless)
+-**fBodyAccJerk.std.Y**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyAccJerk.std.Z**   (unitless)
+-**fBodyAccJerk.std.Z**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyGyro.mean.X**   (unitless)
+-**fBodyGyro.mean.X**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
--**fBodyGyro.mean.Y**   (unitless)
+-**fBodyGyro.mean.Y**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.Y
 
--**fBodyGyro.mean.Z**   (unitless)
+-**fBodyGyro.mean.Z**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.Z
 
--**fBodyGyro.std.X**   (unitless)
+-**fBodyGyro.std.X**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyGyro.std.X
 
--**fBodyGyro.std.Y**   (unitless)
+-**fBodyGyro.std.Y**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyGyro.std.Y
 
--**fBodyGyro.std.Z**   (unitless)
+-**fBodyGyro.std.Z**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyGyro.std.Z
 
--**fBodyAccMag.mean**   (unitless)
+-**fBodyAccMag.mean**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccMag.mean
 
--**fBodyAccMag.std**   (unitless)
+-**fBodyAccMag.std**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccMag.std
 
--**fBodyBodyAccJerkMag.mean**   (unitless)
+-**fBodyBodyAccJerkMag.mean**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyBodyAccJerkMag.mean
 
--**fBodyBodyAccJerkMag.std**   (unitless)
+-**fBodyBodyAccJerkMag.std**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyBodyAccJerkMag.std
 
--**fBodyBodyGyroMag.mean**   (unitless)
+-**fBodyBodyGyroMag.mean**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyBodyGyroMag.mean
 
--**fBodyBodyGyroMag.std**   (unitless)
+-**fBodyBodyGyroMag.std**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyBodyGyroMag.std
 
--**fBodyBodyGyroJerkMag.mean**   (unitless)
+-**fBodyBodyGyroJerkMag.mean**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyBodyGyroJerkMag.mean
 
--**fBodyBodyGyroJerkMag.std**   (unitless)
+-**fBodyBodyGyroJerkMag.std**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyBodyGyroJerkMag.std
