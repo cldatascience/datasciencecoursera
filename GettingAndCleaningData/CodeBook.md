@@ -1,4 +1,5 @@
-# Codebook for class project, Getting and Cleaning Data, Oct 2015
+# Codebook 
+Codebook for class project, Getting and Cleaning Data, Oct 2015
 
 ## Study design
 The dataset produced using run_analysis.R was processed from raw data
