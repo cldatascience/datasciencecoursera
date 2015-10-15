@@ -151,7 +151,7 @@ The subject who performed the activity for each window sample.
 (Averaged) Standard deviation of the magnitudes of Jerk signal for body acceleration (calculated using the Euclidean norm)
 
 -**tBodyGyroMag.mean** (numerical, radians/s)  
-(Averaged) Standard deviation of the magnitudes of body angular velocity (calculated using the Euclidean norm)
+(Averaged) Mean of the magnitudes of body angular velocity (calculated using the Euclidean norm)
 
 -**tBodyGyroMag.std** (numerical, radians/s)  
 (Averaged) Standard deviation of the magnitudes of body angular velocity (calculated using the Euclidean norm)
@@ -184,28 +184,28 @@ The subject who performed the activity for each window sample.
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
 -**fBodyAccJerk.mean.Y**  (unitless)  
-(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
+(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.Y
 
 -**fBodyAccJerk.mean.Z**   (unitless)  
-(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
+(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.Z
 
 -**fBodyAccJerk.std.X**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
 
 -**fBodyAccJerk.std.Y**   (unitless)  
-(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
-
--**fBodyAccJerk.std.Z**   (unitless)  
-(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
-
--**fBodyGyro.mean.X**   (unitless)  
-(Averaged) Fast Fourier Transform of tBodyAccJerk.mean.X
-
--**fBodyGyro.mean.Y**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.Y
 
--**fBodyGyro.mean.Z**   (unitless)  
+-**fBodyAccJerk.std.Z**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyAccJerk.mean.Z
+
+-**fBodyGyro.mean.X**   (unitless)  
+(Averaged) Fast Fourier Transform of tBodyGyro.mean.X
+
+-**fBodyGyro.mean.Y**   (unitless)  
+(Averaged) Fast Fourier Transform of tBodyGyro.mean.Y
+
+-**fBodyGyro.mean.Z**   (unitless)  
+(Averaged) Fast Fourier Transform of tBodyGyro.mean.Z
 
 -**fBodyGyro.std.X**   (unitless)  
 (Averaged) Fast Fourier Transform of tBodyGyro.std.X

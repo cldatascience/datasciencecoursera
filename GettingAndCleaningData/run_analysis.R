@@ -116,7 +116,7 @@ rm(names)
 #          variable names
 ##########################################################################
 
-# Process the feature names using regular expressions, convert to lowercase
+# Process the feature names using regular expressions
 features$feature.name <- gsub("\\-mean\\()-",".mean.",features$feature.name)
 features$feature.name <- gsub("\\-mean\\()",".mean",features$feature.name)
 features$feature.name <- gsub("\\-std\\()-",".std.",features$feature.name)
